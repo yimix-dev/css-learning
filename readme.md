@@ -35,8 +35,8 @@ Each topic folder contains:
 ## Progress Status
 
 - [x] Repository initialized
-- [ ] CSS fundamentals
-- [ ] Connecting CSS
+- [x] CSS fundamentals
+- [x] Connecting CSS
 - [ ] Selectors
 - [ ] Cascade and inheritance
 - [ ] Specificity
