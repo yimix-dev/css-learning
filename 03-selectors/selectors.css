@@ -1,0 +1,56 @@
+p {
+  color: rgb(255, 0, 0);
+}
+h1 {
+  color: rgb(0, 162, 255);
+}
+p {
+  font-size: 100%;
+}
+div {
+  font-size: 100%;
+}
+div {
+  background-color: aqua;
+}
+div {
+  background-color: beige;
+}
+.verde {
+  font-size: 200%;
+}
+.azul {
+  color: violet;
+}
+.amarillo {
+  text-align: center;
+}
+.destacado {
+  font-weight: bold;
+  color: green;
+}
+#tituo {
+  color: rgb(255, 0, 0);
+}
+.destacados {
+  color: rgb(0, 255, 21);
+}
+.what {
+  color: aqua;
+}
+.auto {
+  width: 450px;
+  height: auto;
+}
+#color {
+  color: aqua;
+}
+.rojo {
+  color: red;
+}
+#azul {
+  color: blue;
+}
+label {
+  color: green;
+}
