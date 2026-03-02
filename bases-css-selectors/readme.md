@@ -44,5 +44,5 @@ Basing the entire structure on IDs
 Do not mix languages
 Avoid vague names
 Avoid names that depend on visual appearance
-It is recommended to use the BEM methodology “block__element--modifier”
+It is recommended to use the BEM methodology “block\_\_element--modifier”
 Name by intention, not by appearance.
