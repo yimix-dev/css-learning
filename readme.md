@@ -35,18 +35,33 @@ Each topic folder contains:
 ## Progress Status
 
 -[x] How CSS Works (Cascade, Inheritance, Specificity)
+
 -[x] Selectors
+
 -[x] The Box Model
+
 -[x] Normal Document Flow
+
 -[x] Display
+
 -[x] Positioning and z-index
+
 -[x] Dimensions and Units
+
 -[x] Overflow
+
 -[x] Flexbox
+
 -[x] Grid
+
 -[x]Responsive Design (Media Queries, Mobile First)
+
 -[x] Typography
+
 -[x] Colors, Backgrounds, and Borders
+
 -[x] Transitions and Transforms
+
 -[x] CSS Organization and Architecture
+
 -[x] Debugging with DevTools
