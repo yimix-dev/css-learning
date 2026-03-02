@@ -19,7 +19,7 @@ Each folder is created **only after** a topic has been fully studied
 and applied in practice.  
 No folders are created in advance.
 
-When a folder exists, it means:
+When a folder eists, it means:
 
 - The concept was studied
 - The theory was understood
@@ -29,39 +29,39 @@ When a folder exists, it means:
 
 Each topic folder contains:
 
-- A README with clear explanations
+- A README with clear eplanations
 - A small practical lab using HTML and CSS
 
 ## Progress Status
 
--[x] How CSS Works (Cascade, Inheritance, Specificity)
+-[] How CSS Works (Cascade, Inheritance, Specificity)
 
--[x] Selectors
+-[] Selectors
 
--[x] The Box Model
+-[] The Bo Model
 
--[x] Normal Document Flow
+-[] Normal Document Flow
 
--[x] Display
+-[] Display
 
--[x] Positioning and z-index
+-[] Positioning and z-inde
 
--[x] Dimensions and Units
+-[] Dimensions and Units
 
--[x] Overflow
+-[] Overflow
 
--[x] Flexbox
+-[] Flebo
 
--[x] Grid
+-[] Grid
 
--[x]Responsive Design (Media Queries, Mobile First)
+-[]Responsive Design (Media Queries, Mobile First)
 
--[x] Typography
+-[] Typography
 
--[x] Colors, Backgrounds, and Borders
+-[] Colors, Backgrounds, and Borders
 
--[x] Transitions and Transforms
+-[] Transitions and Transforms
 
--[x] CSS Organization and Architecture
+-[] CSS Organization and Architecture
 
--[x] Debugging with DevTools
+-[] Debugging with DevTools
