@@ -1,0 +1,55 @@
+.texto-gris {
+  color: gray;
+}
+p {
+  font-size: medium;
+}
+.titulo-ejercicio {
+  color: green;
+}
+.intro {
+  font-size: 18px;
+}
+.ejercicio p {
+  margin: 20px;
+}
+/*ejercicio-2*/
+.ejercicio-2 p {
+  color: gray;
+}
+.descripcion {
+  font-size: 18px;
+}
+.ejercicio-2 h1 {
+  color: blue;
+}
+.caja p {
+  margin: 30px;
+}
+/*ejercicio-3*/
+.ejercicio-3 p {
+  color: red;
+}
+.texto {
+  color: green;
+}
+.ejercicio-3 h2 {
+  font-size: 24px;
+}
+/*
+p {
+  color: blue;
+}
+  queda el color rojo porque el class tiene mas especificidad que un selector de etiqueta
+*/
+/*ejercicio-4*/
+.ejercicio-4 p {
+  font-size: 16px;
+}
+
+.ejercicio-4 {
+  color: darkorange;
+}
+.contenedor .destacado {
+  background-color: yellow;
+}
