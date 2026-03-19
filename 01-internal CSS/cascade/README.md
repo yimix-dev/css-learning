@@ -1,28 +1,27 @@
-## cascada
+## cascade
 
-La cascada es el sistema de resolucion de conflictos de CSS
-cuando muchas reglas estan aplicando estilos a un mimso elemento la cascada elige cual gana
-la cascada resuelve con el criterio de 3 reglas que deciden el resultado final: !important, id> Clase> Etiqueta, la ultima regla gana
+The cascade is the conflict resolution system of CSS
+when many rules are applying styles to the same element the cascade chooses which one wins
+the cascade resolves with the criteria of 3 rules that decide the final result: !important, id> Class> Tag, the last rule wins
 
 ### !important
 
-es un nivel especial de prioridad que se activa con !important, esta permite forzar una regla que contenga el !important sobre otras reglas. la desventaja es que si se abusa de !important se puede romper la estructura CSS, por eso profesionalmente se evita
+it is a special level of priority that is activated with !important, this allows forcing a rule that contains !important over other rules. the disadvantage is that if !important is abused it can break the CSS structure, that is why professionally it is avoided
 
-### especificidad
+### specificity
 
-la especificidad es un sistema de peso numerico donde entre mayor sea el numero mayor sera la especificidad, como modelo mental podemos decir que el peso aprximado es:
+specificity is a numeric weight system where the greater the number the greater the specificity, as a mental model we can say that the approximate weight is:
 inline style = 1000
 ID = 100
-clase = 10
-etiqueta = 1
+class = 10
+tag = 1
 
-### orden de aparicion
+### order of appearance
 
-si dos reglas tienen exactamente el mismo peso, se mostrara el cambio de la ulitma regla que se añadio, es decir la ultima en ser escritra en el CSS es la que se sobrepondra osbre las demas con el mismo peso.
+if two rules have exactly the same weight, the change of the last rule that was added will be shown, that is, the last one to be written in the CSS is the one that will override the others with the same weight.
 
-#### tambien se toma en cuenta:
+#### also taken into account:
 
-navegador (user agent)
-usuario
-autor (CSS)
-
+browser (user agent)
+user
+author (CSS)
