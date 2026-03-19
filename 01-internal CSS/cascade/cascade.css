@@ -1,0 +1,40 @@
+p {
+  color: red;
+}
+
+.texto {
+  color: blue;
+}
+
+/*ejercicio-2*/
+p {
+  color: red;
+}
+
+p {
+  color: green;
+}
+/*ejercicio 3*/
+p {
+  color: black;
+}
+
+.texto {
+  color: red;
+}
+
+.card p {
+  color: blue;
+}
+
+p {
+  color: blue;
+}
+
+.texto {
+  color: red;
+}
+
+#titulo {
+  color: green;
+}
