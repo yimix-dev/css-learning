@@ -19,3 +19,5 @@ The browser compares those values and the rule with higher specificity wins.
 if 2 rules have exactly the same weight the last rule that was written will be applied
 
 also if a rule is not added to change a default value the browser applies one by default, this is known as (user agent)
+
+what type 
