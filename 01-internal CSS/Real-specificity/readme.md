@@ -1,25 +1,21 @@
 # Real specificity
 
-la especificicidad es el mecanicmo central de la resolcuion de conflictos en CSS para decidir que regla gana cuando muchas apuntan a un mismo elemento
+specificity is the central mechanism of conflict resolution in CSS to decide which rule wins when many target the same element
 
-## que problema resuleve?
+## what problem does it solve?
 
-cuando muchas reglas aplcian cambios a un mismo elmento, la especificidad entra en el juego para decidir atra vez e difernetes criterios cual va a ganar.
+when many rules apply changes to the same element, specificity comes into play to decide through different criteria which one will win.
 
-## definicion tecnica
+## technical definition
 
-Especificidad es el peso numérico asignado a un selector CSS que determina su prioridad frente a otros selectores que apuntan al mismo elemento.
+Specificity is the numeric weight assigned to a CSS selector that determines its priority over other selectors that target the same element.
 
-Este peso se calcula contando ciertos tipos de selectores.
+This weight is calculated by counting certain types of selectors.
 
-El navegador compara esos valores y la regla con mayor especificidad gana.
+The browser compares those values and the rule with higher specificity wins.
 
-## comportamiento por defecto
+## default behavior
 
-si 2 reglas tienen exactamente el mismo peso se aplicara la ultima regla que fue escrita
+if 2 rules have exactly the same weight the last rule that was written will be applied
 
-tambien si no se añade una regla que cambie un valor predeterminado el navegador aplica uno por defecto a eso se le conoce como (user agent)
-
-
-
-
+also if a rule is not added to change a default value the browser applies one by default, this is known as (user agent)
